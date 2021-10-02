@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To IntelliQ IT</h1>
+<h1>Welcome TO  AYFAA TECHNOLOGY</h1>
 </body>
 <body style="color:red;">
  <div class="container">
